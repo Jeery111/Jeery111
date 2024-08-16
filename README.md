@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jeery111
-- 👀 I’m interested in ...
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning C#, C++
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on YT
 - 📫 How to reach me gerirabi1@outlook.com
 
 <!---
