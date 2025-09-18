@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Jeery111
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on YT
-- 📫 How to reach me: gerirabi1@outlook.com
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me: ayaynorci@hotmail.com
 
 <!---
 Jeery111/Jeery111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
